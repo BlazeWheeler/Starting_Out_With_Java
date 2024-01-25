@@ -1,7 +1,6 @@
 # Starting_Out_With_Java
-Programming Challenges From Starting Out With Java From Control Structures Through Data Structures
 
-![Book-MockUp](3d-box.png)
+![Book-MockUp](StartingOutWithJava.png)
+ A Repository of <b>Programming Challenges</b> From <b>Starting Out With Java:</b> From Control Structures Through Data Structures, Editions 4 & 5.
 
-Editions 4 - 5
  
